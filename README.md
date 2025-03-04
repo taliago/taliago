@@ -1,5 +1,11 @@
-## Hi there 👋
+# About me
 
+My name is Talia and I'm a second year Information Science and Internet Technology student.
+Here I'll upload projects I create in: 
+  - C#
+  - JS/TS/HTML
+  - Java
+  - And more as I learn!
 <!--
 **taliago/taliago** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
