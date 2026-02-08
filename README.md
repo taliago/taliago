@@ -1,6 +1,6 @@
 # About me
 
-My name is Talia and I'm a second year Information Science and Internet Technology student.
+My name is Talia and I'm a third year Information Science and Internet Technology student, and am currently on my way to receiving a certificate in Product Management as well.
 Here I'll upload projects I create in: 
   - C#
   - JS/TS/HTML
